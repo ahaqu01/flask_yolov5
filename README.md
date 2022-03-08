@@ -1,0 +1,2 @@
+# flask_yolov5
+基于flask框架简单的搭建了一个yolov5的目标检测、训练的项目
