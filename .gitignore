@@ -1,0 +1,6 @@
+*__pycache__*
+logdir/*
+*.pth
+*.pt
+*.zip
+*.mp4
